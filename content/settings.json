@@ -1,7 +1,7 @@
 {
   "domain": "shopbeaute.netlify.app",
   "currency_symbol": "R$",
-  "primary_color": "#222831",
+  "primary_color": "#f480a0",
   "theme": {
     "bootswatch": "_",
     "custom": "_"
@@ -14,12 +14,12 @@
   "currency": "BRL",
   "mini_logo": "",
   "font_family": "_",
-  "favicon": "/img/uploads/favicon.png",
+  "favicon": "/img/uploads/logo-b-shop.png",
   "icons_font": "_",
   "country_code": "BR",
   "secondary_color": "#393e46",
-  "icon": "/img/icon.png",
+  "icon": "/img/uploads/logo-b-shop.png",
   "store_id": 16087,
-  "description": "shopbeaute",
-  "large_icon": "/img/large-icon.png"
+  "description": "Quinzena Beauty - até 70% OFF em tratamentos e sessões selecionadas !",
+  "large_icon": "/img/uploads/logo-b-shop.png"
 }
