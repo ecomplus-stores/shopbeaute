@@ -4,13 +4,14 @@
   "sections": [
     {
       "type": "banner-slider",
-      "autoplay": 9000,
-      "full_width": false,
+      "autoplay": 12000,
+      "full_width": true,
       "slides": [
         {
-          "start": "",
+          "start": "2022-10-21T22:38:36.438Z",
           "end": "",
-          "img": "/img/uploads/6.png"
+          "img": "/img/uploads/6.png",
+          "mobile_img": "/img/uploads/5.png"
         }
       ]
     },
