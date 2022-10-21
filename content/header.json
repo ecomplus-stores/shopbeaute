@@ -1,17 +1,17 @@
 {
   "marketing_stripe": {
-    "text": "Aproveite nossos descontos de até 50%!",
-    "link": "/promotion"
+    "text": "Shop Beauté: Ofertas com até 70% OFF no conforto da sua casa",
+    "link": "/promotion",
+    "color": "#0f0e0e",
+    "background": "#f9f5f5"
   },
   "contacts_stripe": {
     "pages": [
       {
-        "title": "Sobre nós",
-        "link": "/pages/sobre-nos"
+        "title": "Sobre Nós"
       },
       {
-        "title": "Esta loja é um PWA",
-        "link": "/posts/esta-loja-e-um-pwa"
+        "title": "Ofertas 70% OFF"
       }
     ],
     "phone_wpp": true,
@@ -19,8 +19,8 @@
   },
   "categories_list": {
     "featured": [],
-    "random": 6,
-    "full_width": false
+    "random": 2,
+    "full_width": true
   },
   "desktop_megamenu": false,
   "search_input": true,
