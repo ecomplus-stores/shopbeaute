@@ -8,19 +8,9 @@
       "full_width": false,
       "slides": [
         {
-          "img": "/img/uploads/6.png",
-          "link": "/headset",
-          "alt": "Headset banner",
-          "start": "2022-10-21T22:34:48.704Z",
-          "end": "2022-10-21T22:34:49.924Z",
-          "mobile_img": ""
-        },
-        {
           "start": "",
           "end": "",
-          "img": "/img/uploads/banner2.webp",
-          "alt": "Banner sample two",
-          "mobile_img": "/img/uploads/passion.webp"
+          "img": "/img/uploads/6.png"
         }
       ]
     },
