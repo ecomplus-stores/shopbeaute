@@ -1,1 +1,23 @@
 // Add your custom CSS here.
+.form-group.address-form__name label {
+  font-size: 0
+}
+.form-group.address-form__name label:after {
+  font-size: 15px !important;
+  content: 'Endereço de Cobrança'
+}
+.checkout__step:nth-child(2) {
+  font-size: 0
+}
+.checkout__step:nth-child(2):before {
+  font-size: 12px !important;
+  content: '1) Endereço de Cobrança'
+}
+.checkout__step:nth-child(2)::after {
+  font-size: 12px !important;
+  padding-left: 120%;
+  content: '/'
+}
+.checkout__col .mb-3 {
+display: none !important;
+}
