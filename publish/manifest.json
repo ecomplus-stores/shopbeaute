@@ -1,0 +1,37 @@
+{
+  "icons": [
+    {
+      "src": "/icon_512x512.c0bf8f77739eb051483357f4188220e2.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon_384x384.99223f45bbbc5e815b24b89ce3cadcd8.png",
+      "sizes": "384x384",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon_192x192.ab445c34749516fdde3049c42cc3dc61.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon_128x128.c9d50c144d14b62ebc7790d642feb0d5.png",
+      "sizes": "128x128",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon_96x96.56b01b7bb93e888d333097c39d641e6d.png",
+      "sizes": "96x96",
+      "type": "image/png"
+    }
+  ],
+  "name": "shopbeaute",
+  "short_name": "shopbeaute",
+  "orientation": "portrait",
+  "display": "standalone",
+  "start_url": ".",
+  "description": "Quinzena Beauty - até 70% OFF em tratamentos e sessões selecionadas !",
+  "background_color": "#ffffff",
+  "theme_color": "#f480a0"
+}
